@@ -1,0 +1,28 @@
+
+
+.main-footer {
+   
+    color: white;
+    background-color: rgb(21,21,69);
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  .col {
+    display:flex;justify-content:space-between;
+    align-items: flex-start;
+    margin: 0 auto  ;
+    width: 50%;
+    color: white;
+
+  }
+
+   .main-footer col h4 ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .col-sm{
+     margin-left: 350px;
+   }

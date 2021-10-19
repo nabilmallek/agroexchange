@@ -1,0 +1,8 @@
+.post-list{
+    width: 82%;
+    margin: 0 auto;
+    margin-bottom: 200px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

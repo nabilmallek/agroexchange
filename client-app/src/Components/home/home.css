@@ -1,0 +1,36 @@
+.slid{
+    width: 100%;
+}
+
+p{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1em;
+    font-weight: bold;
+}
+
+.para{
+    display:flex;justify-content:space-between;
+    align-items: flex-start;
+    margin: 0 auto  ;
+    width: 80%;
+    color: rgb(21,21,69);
+
+}
+
+.para >*{
+    width: 25%;
+}
+
+.imges{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+.imges> *{
+    display: flex;
+    width: 250px;
+border: 2px rgb(21,21,69) solid;
+
+}
